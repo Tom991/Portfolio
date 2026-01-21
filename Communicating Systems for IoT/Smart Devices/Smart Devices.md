@@ -1,4 +1,4 @@
-# Security for IoT
+# Smart Devices
 
 ## Description
 
@@ -176,4 +176,5 @@ I am therefore able to design and simulate a signal conditioning circuit adapted
 ## Source
 
 </div>
+
 
