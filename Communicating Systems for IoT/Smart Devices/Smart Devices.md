@@ -86,7 +86,7 @@ Finally, we developed an embedded application responsible for both reading the g
   <p><em>Figure 3: Node-RED dashboard</em></p>
 </div>
 
-### Analytical
+## Analytical
 
 
 #### Learning Outcomes Assessment - Microcontrollers and Open-Source Hardware, Embedded IA (M&OSH)
@@ -176,6 +176,7 @@ I am therefore able to design and simulate a signal conditioning circuit adapted
 ## Source
 
 </div>
+
 
 
 
