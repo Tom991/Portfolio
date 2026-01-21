@@ -29,20 +29,13 @@ This instruction was complemented by five practical lab sessions. We first carri
 
 I was able to make full use of all the knowledge acquired during the various practical lab sessions of this course, both for aspects related to security and those related to cryptography and quantum communication.
 
-We chose to further explore the module devoted to the analysis of an ANT+ heart rate monitor.
-<figure align="center">
-  <img width="695" height="373" alt="image" src="https://github.com/user-attachments/assets/dbabf5b7-5a16-4e14-8aeb-9ba66c887380"/>
-  <figcaption style="font-size: 0.9em; color: #555;">
-    Figure 2 — Exemple de légende centrée
-  </figcaption>
-</figure>
+We chose to further explore the module devoted to the analysis of an ANT+ heart rate monitor [1].
 
-<figure align="center">
-  <img width="695" height="373" alt="image" src="https://github.com/user-attachments/assets/dbabf5b7-5a16-4e14-8aeb-9ba66c887380"/>
-  <figcaption style="font-size: 0.9em; color: #555;">
-    Figure 1: Heart rate monitor
-  </figcaption>
-</figure>
+<div align="center">
+  <img width="600" alt="image" src="https://github.com/user-attachments/assets/dbabf5b7-5a16-4e14-8aeb-9ba66c887380"/>
+  <p><em>Figure 1: Heart rate monitor [1]</em></p>
+</div>
+
 
 This module made it possible to cover the entire analysis chain: from signal acquisition to the exploitation of protocol weaknesses. This involved putting into practice several complementary approaches, such as signal capture and inspection using a Software Defined Radio, the implementation of a sniffer based on an nRF52840 chip, analysis of the fields, and reconstruction of the frame format. Finally, an identity spoofing attack was carried out, aiming to reproduce the behavior of a legitimate sensor.
 
@@ -68,14 +61,11 @@ During the practical component related to quantum communication, we carried out 
 
 We were thus able to implement a secure communication system based on two distinct channels: a classical channel, used for the public exchange of information, and a quantum channel, which exploits the properties of light to distribute a secret key between two users. This setup provides a concrete illustration of how the laws of quantum mechanics make it possible to guarantee the security of information exchanges.
 
+<div align="center">
+  <img width="800" alt="image" src="https://github.com/user-attachments/assets/e0a82eb7-ffe1-4486-90b9-f04d092f44ec"/>
+  <p><em>Figure 2: Heart rate monitor [2]</em></p>
+</div>
 
-<figure>
-  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e0a82eb7-ffe1-4486-90b9-f04d092f44ec" />
-  <figcaption></figcaption>
-</figure>
-
-
-### Innovative Project
 
 ### Analytical
 
@@ -118,8 +108,13 @@ We were thus able to implement a secure communication system based on two distin
 
 ## Source
 
+[1] **CAYRE, R.** et **GALTIER, F.** *TP – sécurité des protocoles sans fil* [en ligne].  
+    [s. d.]. Consulté le 21 janvier 2026.  
+    Disponible sur : https://homepages.laas.fr/rcayre/teaching/iotsec/reverse/
+
+[2] **S-FIFTEEN INSTRUMENTS** *EKPQC s-fifteen instruments quantum cryptography educational kit : initial setup* [vidéo].  
+    [s. d.]. Consulté le 21 janvier 2026.  
+    Disponible sur : [https://homepages.laas.fr/rcayre/teaching/iotsec/reverse/](https://www.youtube.com/watch?v=G9KqWiAxvyQ)
 
 </div>
-
-
 
