@@ -21,7 +21,7 @@ I was able to put into practice the knowledge acquired during this course in two
 
 ### Laboratory Work
 
-The first laboratory session aimed to consolidate the fundamentals of the course. Its objective was to design, train, and optimize a fall detection model based on images, relying on the CAUCAFall dataset. To achieve this, we used a Convolutional Neural Network (CNN) through TensorFlow and Keras, while taking into account constraints related to embedded integration (lighter model and optimization).
+The first laboratory session aimed to consolidate the fundamentals of the course. Its objective was to design, train, and optimize a fall detection model based on images, relying on the CAUCAFall dataset. To achieve this, we used a CNN through TensorFlow and Keras, while taking into account constraints related to embedded integration (lighter model and optimization).
 
 
 This lab allowed us to face a supervised classification problem and to understand that a good score on the training set is not sufficient: a relevant model must primarily generalize well in order to account for dataset variability. We therefore deepened our understanding of overfitting and the importance of validating the model on unseen data.
@@ -76,7 +76,7 @@ This course, together with the associated practical work, enabled me to understa
 
 During the practical sessions, I mainly worked on an application using image data as input. In doing so, I covered a large part of the workflow, from data preparation to model optimization and evaluation.
 
-As part of the practical work, I carried out data preparation tasks (exploration, visualization, normalization) and built the training, validation, and test datasets. I then designed, trained, and evaluated a convolutional neural network (CNN) for image analysis.
+As part of the practical work, I carried out data preparation tasks (exploration, visualization, normalization) and built the training, validation, and test datasets. I then designed, trained, and evaluated a CNN for image analysis.
 
 Overall, these practical sessions allowed me to concretely apply all the stages of a machine learning workflow, with the exception of the data collection and cleaning phases, which are particularly time- and resource-intensive. Nevertheless, I believe I have gained a solid overall understanding of the workflow and its adaptations to the constraints of IoT systems.
 
