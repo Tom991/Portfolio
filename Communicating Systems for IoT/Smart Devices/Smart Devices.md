@@ -70,9 +70,21 @@ I then created a Node‑RED dashboard to monitor the sensor data via MQTT. This 
 
 <div align="center">
   <img width="880" alt="image" src="https://github.com/user-attachments/assets/6f4a940b-9614-49bf-a88e-d0818d4ed81b" />
-  <p><em>Figure 2: Heart rate monitor [2]</em></p>
+  <p><em>Figure 2: Node-RED stream</em></p>
 </div>
 
+<div align="center">
+  <img width="338" alt="image" src="https://github.com/user-attachments/assets/7d9e8fd5-443d-47ca-9ee3-aa81d351fb57" />
+  <p><em>Figure 3: Node-RED dashboard</em></p>
+</div>
+
+Finally, we developed an embedded application responsible for both reading the gas sensor measurements and managing the display screen.
+
+
+<div align="center">
+  <img width="669" alt="image" src="https://github.com/user-attachments/assets/43ede4ee-ff13-4ea2-b5f0-6d707c109bbb" />
+  <p><em>Figure 3: Node-RED dashboard</em></p>
+</div>
 
 ### Analytical
 
@@ -92,37 +104,48 @@ I then created a Node‑RED dashboard to monitor the sensor data via MQTT. This 
     <tr>
       <td rowspan="5">J. Grisolia, S. Lohez, B. Mestre, A. Biganzoli</td>
       <td>Understand microcontroller archictecture and how to use them</td>
-      <td>/ 4</td>
+      <td>4 / 4</td>
       <td>Portfolio</td>
     </tr>
     <tr>
       <td>Be able to design data acquisition system (sensor, conditioner, microcontroller) with respect to the application</td>
-      <td>/ 4</td>
+      <td>4 / 4</td>
       <td>Portfolio</td>
     </tr>
     <tr>
       <td>Be able to design a shield to accommodate the gas sensor</td>
-      <td>/ 4</td>
+      <td>4 / 4</td>
       <td>Portfolio</td>
     </tr>
     <tr>
       <td>Be abe to design the sofware to use the gas sensor and its HMI</td>
-      <td>/ 4</td>
+      <td>4 / 4</td>
       <td>Portfolio</td>
     </tr>
     <tr>
       <td>Be able to combine all of the above mentioned components into a smart device</td>
-      <td>/ 4</td>
+      <td>4 / 4</td>
       <td>Portfolio</td>
     </tr>
   </tbody>
 </table>
 
-#### Learning Outcomes Assessment – CAD, manufacturing and integration of nano-technology sensors (AIME)
+Given my background in electronics and my prior experience with microcontrollers, this part of the project mainly allowed me to put these foundations into practice and apply them within a fully integrated system context. I made use of concepts related to peripherals and communication interfaces in order to build the embedded program. I believe I have gained a solid understanding of these notions and was able to apply them effectively.
 
-| **Instructor** | **Learning Outcome** | **Self‑Assessment (AE)** | **Evaluation Method** |
-|---------------|----------------------|---------------------|----------------------|
-| R. Cayre     | Be able to identify security weaknesses in an IoT architecture | 2 / 3 | TP Report + Portfolio |
+The project also enabled me to implement a complete data acquisition chain, from the sensor to data exploitation: reading measurements via the microcontroller, taking into account the conditioning circuit designed during the laboratory sessions, and setting up a test platform to progress independently of the shield board. Although I had already previously worked on similar acquisition chains, this course provided an opportunity to reinforce and apply this knowledge in a structured and realistic context.
+
+Even though the PCB design was handled by other members of the team, I was able to understand and take into account the constraints related to the shield design and contribute to integration-related decisions. Moreover, during my academic curriculum (3AE / 4AE), I have already designed two boards using CAD tools, which allowed me to provide input on layout and interfacing aspects. This contribution was notably reflected in hardware/software coordination, particularly by anticipating integration constraints.
+
+#### Learning Outcomes Assessment – Sensors introduction
+
+This experience allowed me to gain insight into the entire design, fabrication, and validation chain of a gas sensor, using tools and techniques derived from microelectronics.
+
+I became familiar with cleanroom processes and developed an understanding of their logical and highly constrained sequence, from substrate preparation to the realization of a fully functional sensor. This approach helped me grasp how a device is built through the successive stacking of process steps, such as oxidation, thin‑film deposition, doping, photolithography, etching steps, metallization, and thermal annealing.
+
+Throughout the process, I was also made aware of the importance of controlling the fabrication steps. Regular microscopic observations were carried out to verify the conformity of each step before continuing the process.
+
+Finally, I sought to follow as many fabrication stages as possible. Although my knowledge of chemistry remains limited for fully understanding all the subtleties of the protocol, this experience enabled me to acquire a comprehensive and practical overview of sensor fabrication and integration.
+
 
 #### Learning Outcomes Assessment – Sensors introduction
 
@@ -130,25 +153,27 @@ I then created a Node‑RED dashboard to monitor the sensor data via MQTT. This 
 |---------------|----------------------|---------------------|----------------------|
 | J. Grisolia     | Understand basic notions of sensors, data acquisition: physics, electronics and metrology point of view | 4 / 4 | TP Report + Portfolio |
 
+The lectures enabled me to gain a better understanding of sensors, particularly from a physical and metrological perspective, thanks to the various practical exercises proposed during the sessions. These activities helped me better understand measurement principles, sources of error, and the performance characteristics associated with sensors.
+
+Throughout my academic training, I had already acquired a solid foundation in electronics. This course allowed me to further develop this knowledge by more closely linking it to the physical aspects of sensors and data acquisition.
+
 | **Instructor** | **Learning Outcome** | **Self‑Assessment (AE)** | **Evaluation Method** |
 |---------------|----------------------|---------------------|----------------------|
 | J. Grisolia     | Be able to design the datasheet of the sensor manufactured | 4 / 4 | TP Report + Portfolio |
+
+Writing the sensor datasheet was a particularly formative experience. It helped me understand the importance of cross‑disciplinary skills, combining physics and electronics, in order to accurately describe the operation and performance of a sensor. Thanks to this experience and my background in electronics, I now feel capable of carrying out this task autonomously in the future.
 
 #### Learning Outcomes Assessment – Analog electronic labs
 
 | **Instructor** | **Learning Outcome** | **Self‑Assessment (AE)** | **Evaluation Method** |
 |---------------|----------------------|---------------------|----------------------|
-| R. Cayre     | Be able to design the electronic circuit of a sensor’s signal conditioner (design + simulation) | 4 / 4 | TP Report + Portfolio |
+| J. Grisolia     | Be able to design the electronic circuit of a sensor’s signal conditioner (design + simulation) | 4 / 4 | TP Report + Portfolio |
 
+The analog electronics laboratory sessions enabled me to further develop my skills in designing signal conditioning circuits for sensors. During my academic background in electronics, I had already had the opportunity to design conditioning circuits, which allowed me to approach these sessions with solid foundations.
+
+I am therefore able to design and simulate a signal conditioning circuit adapted to a given sensor, taking into account the signal characteristics and the measurement requirements. 
 
 ## Source
 
-[1] **CAYRE, R.** et **GALTIER, F.** *TP – sécurité des protocoles sans fil* [en ligne].  
-    [s. d.]. Consulté le 21 janvier 2026.  
-    Disponible sur : https://homepages.laas.fr/rcayre/teaching/iotsec/reverse/
-
-[2] **S-FIFTEEN INSTRUMENTS** *EKPQC s-fifteen instruments quantum cryptography educational kit : initial setup* [vidéo].  
-    [s. d.]. Consulté le 21 janvier 2026.  
-    Disponible sur : [https://homepages.laas.fr/rcayre/teaching/iotsec/reverse/](https://www.youtube.com/watch?v=G9KqWiAxvyQ)
-
 </div>
+
