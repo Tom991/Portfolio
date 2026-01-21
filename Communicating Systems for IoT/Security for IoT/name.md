@@ -30,11 +30,14 @@ This instruction was complemented by five practical lab sessions. We first carri
 I was able to make full use of all the knowledge acquired during the various practical lab sessions of this course, both for aspects related to security and those related to cryptography and quantum communication.
 
 We chose to further explore the module devoted to the analysis of an ANT+ heart rate monitor. [
-
-<figure>
-  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e0a82eb7-ffe1-4486-90b9-f04d092f44ec" />
-  <figcaption>Figure 1: Heart rate monitor</figcaption>
+<figure style="text-align: center;">
+  <img width="695" height="373" alt="image" src="https://github.com/user-attachments/assets/dbabf5b7-5a16-4e14-8aeb-9ba66c887380" />
+  <figcaption style="font-size: 0.85em; font-style: italic; color: #57606a; margin-top: 0.5em;">
+    Figure 1: Heart rate monitor
+  </figcaption>
 </figure>
+
+
 
 This module made it possible to cover the entire analysis chain: from signal acquisition to the exploitation of protocol weaknesses. This involved putting into practice several complementary approaches, such as signal capture and inspection using a Software Defined Radio, the implementation of a sniffer based on an nRF52840 chip, analysis of the fields, and reconstruction of the frame format. Finally, an identity spoofing attack was carried out, aiming to reproduce the behavior of a legitimate sensor.
 
@@ -42,15 +45,35 @@ The final (assessed) lab focused on an introduction to web security. Its objecti
 
 On the server side, the lab highlighted typical vulnerabilities such as SQL injections, file inclusions, and poor configurations (excessive permissions, information exposure via phpinfo, etc.), while also leading us toward best practices.
 
+On the client side, the second part focused on attacks such as XSS (execution of HTML/JS in the browser), CSRF, and session hijacking through session cookie reuse, as well as their countermeasures: output encoding, CSRF tokens, and cookie security.
+
+### Cryptology section
+
+The objective of this lab was to implement our own certification authority in order to secure device authentication, relying on the mbedTLS library. mbedTLS is a lightweight C library designed by ARM to facilitate the implementation of TLS communications on embedded systems.
+
+In the first part, we determined cryptographic parameters based on standard recommendations.
+
+In the second part, we created our own Certification Authority (CA): generation of the CA key pair, creation of a self-signed root certificate, then generation of a key pair for a device, creation of a CSR (Certificate Signing Request), and issuance of a certificate signed by the CA. We then verified the validity of the device’s certificate.
+
+Finally, we simulated a Man-In-The-Middle (MITM) attack on an unsecured channel to illustrate the risks of message interception and modification, and to show that authentication of keys and certificates is essential to counter this type of attack.
+
+### Quantum section
+
+During the practical component related to quantum communication, we carried out a lab session aimed at introducing the principles of quantum cryptography through the study of quantum key distribution using an instrumented experiment.
+
+We were thus able to implement a secure communication system based on two distinct channels: a classical channel, used for the public exchange of information, and a quantum channel, which exploits the properties of light to distribute a secret key between two users. This setup provides a concrete illustration of how the laws of quantum mechanics make it possible to guarantee the security of information exchanges.
+
+
+<figure>
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e0a82eb7-ffe1-4486-90b9-f04d092f44ec" />
+  <figcaption></figcaption>
+</figure>
 
 
 ### Innovative Project
 
 ### Analytical
 
-
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e0a82eb7-ffe1-4486-90b9-f04d092f44ec" />
 
 #### Learning Outcomes Assessment – AI at the Edge
 
@@ -92,3 +115,4 @@ On the server side, the lab highlighted typical vulnerabilities such as SQL inje
 
 
 </div>
+
