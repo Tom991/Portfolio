@@ -8,7 +8,7 @@ The course Security for IoT, which is part of the Communicating Systems for IoT 
 
 The course is organized into ten lectures. The first part is dedicated to the foundations of computer security, while the second focuses on the principles of cryptography.
 
-The first part initially offers an overview of key notions (definitions, terminology, and presentation of the IoT context), then explores the security of human–machine interfaces, particularly in web and application environments.
+The first part initially offers an overview of key notions (definitions, terminology, and presentation of the IoT context), then explores the security of human-machine interfaces, particularly in web and application environments.
 
 The course then addresses the vulnerabilities of major wireless communication protocols such as Wi‑Fi, BLE, and Zigbee, including the presentation and classification of attack types and common weaknesses.
 
@@ -16,7 +16,7 @@ Finally, the course opens up to more advanced topics, such as formal verificatio
 
 This course also includes a section dedicated to cryptography, serving as an introduction to the field. It first presents the historical foundations of encryption through classical mechanisms (substitution, Caesar cipher, Vigenère). It then covers modern cryptographic primitives, including symmetric and asymmetric encryption, as well as digital signatures, and explains their contributions to security.
 
-The course also introduces concepts of standardization, discussing the role of competitions and public analyses (for example around AES or RSA) as well as that of standardization bodies (NIST, IETF, ISO). Finally, it presents the logic behind modern communications, notably key agreement mechanisms (e.g., Diffie–Hellman).
+The course also introduces concepts of standardization, discussing the role of competitions and public analyses (for example around AES or RSA) as well as that of standardization bodies (NIST, IETF, ISO). Finally, it presents the logic behind modern communications, notably key agreement mechanisms (e.g., Diffie-Hellman).
 
 In addition to the lectures, we attended a one‑day introduction to quantum communications. The morning sessions were theoretical, presenting some fundamentals of cryptography as well as the basic principles of quantum mechanics and their applications to secure communications. The afternoon was dedicated to hands‑on experimentation.
 
@@ -70,7 +70,7 @@ We were thus able to implement a secure communication system based on two distin
 ### Analytical
 
 
-#### Learning Outcomes Assessment – AI at the Edge
+#### Learning Outcomes Assessment - AI at the Edge
 
 | **Instructor** | **Learning Outcome** | **Self‑Assessment (AE)** | **Evaluation Method** |
 |---------------|----------------------|---------------------|----------------------|
@@ -108,7 +108,7 @@ We were thus able to implement a secure communication system based on two distin
 
 ## Source
 
-[1] **CAYRE, R.** et **GALTIER, F.** *TP – sécurité des protocoles sans fil* [en ligne].  
+[1] **CAYRE, R.** et **GALTIER, F.** *TP - sécurité des protocoles sans fil* [en ligne].  
     [s. d.]. Consulté le 21 janvier 2026.  
     Disponible sur : https://homepages.laas.fr/rcayre/teaching/iotsec/reverse/
 
@@ -117,4 +117,5 @@ We were thus able to implement a secure communication system based on two distin
     Disponible sur : [https://homepages.laas.fr/rcayre/teaching/iotsec/reverse/](https://www.youtube.com/watch?v=G9KqWiAxvyQ)
 
 </div>
+
 
