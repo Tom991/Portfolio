@@ -29,15 +29,14 @@ This instruction was complemented by five practical lab sessions. We first carri
 
 I was able to make full use of all the knowledge acquired during the various practical lab sessions of this course, both for aspects related to security and those related to cryptography and quantum communication.
 
-We chose to further explore the module devoted to the analysis of an ANT+ heart rate monitor. [
-<figure style="text-align: center;">
-  <img width="695" height="373" alt="image" src="https://github.com/user-attachments/assets/dbabf5b7-5a16-4e14-8aeb-9ba66c887380" />
-  <figcaption style="font-size: 0.85em; font-style: italic; color: #57606a; margin-top: 0.5em;">
+We chose to further explore the module devoted to the analysis of an ANT+ heart rate monitor.
+
+<figure align="center">
+  <img width="695" height="373" alt="image" src="https://github.com/user-attachments/assets/dbabf5b7-5a16-4e14-8aeb-9ba66c887380"/>
+  <figcaption style="font-size: 0.9em; color: #555;">
     Figure 1: Heart rate monitor
   </figcaption>
 </figure>
-
-
 
 This module made it possible to cover the entire analysis chain: from signal acquisition to the exploitation of protocol weaknesses. This involved putting into practice several complementary approaches, such as signal capture and inspection using a Software Defined Radio, the implementation of a sniffer based on an nRF52840 chip, analysis of the fields, and reconstruction of the frame format. Finally, an identity spoofing attack was carried out, aiming to reproduce the behavior of a legitimate sensor.
 
@@ -115,4 +114,5 @@ We were thus able to implement a secure communication system based on two distin
 
 
 </div>
+
 
