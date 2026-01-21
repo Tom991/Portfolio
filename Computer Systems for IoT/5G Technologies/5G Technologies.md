@@ -31,7 +31,7 @@ As part of the innovative project, I had the opportunity to implement a remote c
 
 | **Instructor** | **Learning Outcome** | **Self‑Assessment (AE)** | **Evaluation Method** |
 |---------------|----------------------|---------------------|----------------------|
-| J. Grisolia     | Understand and master the new mobile networks technologies | 4 / 4 | TP Report + Portfolio |
+| E. Sicard     | Understand and master the new mobile networks technologies | 4 / 4 | Oral presentation |
 
 Through the various student presentations I attended covering both 5G and 6G technologies as well as cross-disciplinary topics such as the potential effects of new networks on health and the gradual phase-out of 2G I was able to gain a more comprehensive and critical view of the issues and challenges related to the evolution of mobile networks.
 
@@ -43,6 +43,7 @@ They thus helped me to take a step back from the technological choices being mad
 ## Source
 
 </div>
+
 
 
 
