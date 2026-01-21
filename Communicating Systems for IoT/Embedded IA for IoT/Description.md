@@ -42,7 +42,7 @@ The part that increased in complexity the fastest was the analysis of the testbe
 
 ### Analytical
 
-#### Learning Outcomes Assessment – AI at the Edge
+#### Learning Outcomes Assessment - AI at the Edge
 
 | **Instructor** | **Learning Outcome** | **Self‑Assessment (AE)** | **Evaluation Method** |
 |---------------|----------------------|---------------------|----------------------|
