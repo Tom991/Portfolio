@@ -30,6 +30,12 @@ This instruction was complemented by five practical lab sessions. We first carri
 I was able to make full use of all the knowledge acquired during the various practical lab sessions of this course, both for aspects related to security and those related to cryptography and quantum communication.
 
 We chose to further explore the module devoted to the analysis of an ANT+ heart rate monitor.
+<figure align="center">
+  <img width="695" height="373" alt="image" src="https://github.com/user-attachments/assets/dbabf5b7-5a16-4e14-8aeb-9ba66c887380"/>
+  <figcaption style="font-size: 0.9em; color: #555;">
+    Figure 2 — Exemple de légende centrée
+  </figcaption>
+</figure>
 
 <figure align="center">
   <img width="695" height="373" alt="image" src="https://github.com/user-attachments/assets/dbabf5b7-5a16-4e14-8aeb-9ba66c887380"/>
@@ -114,5 +120,6 @@ We were thus able to implement a secure communication system based on two distin
 
 
 </div>
+
 
 
