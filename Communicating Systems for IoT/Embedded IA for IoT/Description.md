@@ -40,4 +40,15 @@ At first, I designed a simple perceptron, then progressively increased its compl
 
 The part that increased in complexity the fastest was the analysis of the testbench. Indeed, a Layer instantiates multiple perceptrons and an MLP instantiates multiple layers: the size of the simulations grows very quickly, which makes validation more difficult (simulation time, volume of signals to observe, multiplication of test cases). It therefore becomes challenging to verify everything “by hand”.
 
+### Analytical
+
+
+#### Learning Outcomes Assessment – AI at the Edge
+
+| **Instructor** | **Learning Outcome** | **Self‑Assessment** | **Assessment Method** |
+|---------------|----------------------|---------------------|----------------------|
+| P. Leleux     | Able to explain the main concepts of Artificial Intelligence at the edge | 4 / 5 | Report based on practical work |
+
+
+
 </div>
