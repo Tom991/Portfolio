@@ -89,7 +89,7 @@ Finally, we developed an embedded application responsible for both reading the g
 ### Analytical
 
 
-#### Learning Outcomes Assessment – Microcontrollers and Open-Source Hardware, Embedded IA (M&OSH)
+#### Learning Outcomes Assessment - Microcontrollers and Open-Source Hardware, Embedded IA (M&OSH)
 
 <table>
   <thead>
@@ -136,7 +136,7 @@ The project also enabled me to implement a complete data acquisition chain, from
 
 Even though the PCB design was handled by other members of the team, I was able to understand and take into account the constraints related to the shield design and contribute to integration-related decisions. Moreover, during my academic curriculum (3AE / 4AE), I have already designed two boards using CAD tools, which allowed me to provide input on layout and interfacing aspects. This contribution was notably reflected in hardware/software coordination, particularly by anticipating integration constraints.
 
-#### Learning Outcomes Assessment – Sensors introduction
+#### Learning Outcomes Assessment - Sensors introduction
 
 This experience allowed me to gain insight into the entire design, fabrication, and validation chain of a gas sensor, using tools and techniques derived from microelectronics.
 
@@ -147,7 +147,7 @@ Throughout the process, I was also made aware of the importance of controlling t
 Finally, I sought to follow as many fabrication stages as possible. Although my knowledge of chemistry remains limited for fully understanding all the subtleties of the protocol, this experience enabled me to acquire a comprehensive and practical overview of sensor fabrication and integration.
 
 
-#### Learning Outcomes Assessment – Sensors introduction
+#### Learning Outcomes Assessment - Sensors introduction
 
 | **Instructor** | **Learning Outcome** | **Self‑Assessment (AE)** | **Evaluation Method** |
 |---------------|----------------------|---------------------|----------------------|
@@ -163,7 +163,7 @@ Throughout my academic training, I had already acquired a solid foundation in el
 
 Writing the sensor datasheet was a particularly formative experience. It helped me understand the importance of cross‑disciplinary skills, combining physics and electronics, in order to accurately describe the operation and performance of a sensor. Thanks to this experience and my background in electronics, I now feel capable of carrying out this task autonomously in the future.
 
-#### Learning Outcomes Assessment – Analog electronic labs
+#### Learning Outcomes Assessment - Analog electronic labs
 
 | **Instructor** | **Learning Outcome** | **Self‑Assessment (AE)** | **Evaluation Method** |
 |---------------|----------------------|---------------------|----------------------|
@@ -176,5 +176,6 @@ I am therefore able to design and simulate a signal conditioning circuit adapted
 ## Source
 
 </div>
+
 
 
