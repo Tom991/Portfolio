@@ -70,6 +70,20 @@ These projects enabled me to put into practice latency and performance optimizat
 
 | **Instructor** | **Learning Outcome** | **Self‑Assessment (AE)** | **Evaluation Method** |
 |---------------|----------------------|---------------------|----------------------|
-| P. Leleux     | Set up a machine learning workflow on heterogeneous IoT data (tabular, images, temporal series) | 4 / 4 | Report from practical |
+| P. Leleux     | Set up a machine learning workflow on heterogeneous IoT data (tabular, images, temporal series) | 3 / 3 | Report from practical |
+
+This course, together with the associated practical work, enabled me to understand and implement the different stages of a machine learning workflow, adapted to the various types of data encountered in IoT systems.
+
+During the practical sessions, I mainly worked on an application using image data as input. In doing so, I covered a large part of the workflow, from data preparation to model optimization and evaluation.
+
+As part of the practical work, I carried out data preparation tasks (exploration, visualization, normalization) and built the training, validation, and test datasets. I then designed, trained, and evaluated a convolutional neural network (CNN) for image analysis.
+
+Overall, these practical sessions allowed me to concretely apply all the stages of a machine learning workflow, with the exception of the data collection and cleaning phases, which are particularly time- and resource-intensive. Nevertheless, I believe I have gained a solid overall understanding of the workflow and its adaptations to the constraints of IoT systems.
+
+| **Instructor** | **Learning Outcome** | **Self‑Assessment (AE)** | **Evaluation Method** |
+|---------------|----------------------|---------------------|----------------------|
+| P. Leleux     | Use Python machine learning libraries and compression methods | 4 / 4 | Report from practical |
+
+During the Embedded AI for IoT course, I worked with several Python libraries dedicated to machine learning, notably TensorFlow and Keras, as well as data manipulation and visualization tools such as NumPy and Matplotlib. These libraries enabled me to design, train, evaluate, and optimize machine learning models specifically tailored to the constraints of IoT systems.
 
 </div>
