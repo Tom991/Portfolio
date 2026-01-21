@@ -4,31 +4,30 @@
 
 <div align="justify">
 
-The Communication Protocols for LP-WPAN course is part of the EU Wireless Communications program. It focuses on communication technologies and network protocols that enable the connection of intrinsically constrained IoT objects in terms of energy consumption, data rate, and frame size within wireless networks, in particular LP-WPANs (Low-Power Wireless Personal Area Networks). Special attention is given to the Internet protocol stack based on IPv6 for IoT networks.
+The Emerging Networks course, integrated into the Wireless Communication teaching unit, aims to present the major evolutions in network architectures and, in particular, to explain why network programmability has become a central issue. In this context, the course quickly focuses on the Software Defined Networking (SDN) paradigm, which proposes separating the control plane from the data plane in order to manage the network in a centralized manner using a controller.
 
-The course first introduces the application requirements related to IoT. It then presents the fundamentals of LP-WPANs and the IEEE 802.15.4 standard, as well as the architectures defined by the IETF for IoT, based on the combination of IPv6, 6LoWPAN, and RPL, in order to enable their integration into constrained networks of the LP-WAN type.
+The course consists of four lecture sessions and two practical lab sessions. The lectures form the theoretical core of the module and are mainly dedicated to SDN. They present the fundamental principles of the separation between the data plane and the control plane, as well as the role and operation of an SDN controller. The course also introduces OpenFlow as an interface and communication protocol that enables the controller to control network devices, and outlines its main benefits and use cases.
 
-The course is complemented by hands-on experimental activities aimed at implementing and observing IPv6 mechanisms, and then exploiting this connectivity to carry out application-level communications.
+The teaching is complemented by two practical lab sessions, focused on the implementation and programming of SDN networks. These labs allow students to manipulate the concepts presented in the lectures, to experiment with the control of network devices, and to gain a better understanding of programmable networks.
+Finally, assessment is based on a quiz as well as an analytical activity in the form of a questionnaire.
 
-The teaching is organized around three lecture sessions and three tutorial sessions.
-
-Assessment is based on homework assignments including a Moodle quiz, as well as a questionnaire serving as input to this part of the report, which focuses on the key principles of an IP-based IoT architecture and on the mechanisms that make IPv6 usable in LP-WPAN networks, notably through 6LoWPAN and the RPL routing protocol.
 
 ## Technical Aspects
 
 ## Analytical
 
-#### Learning Outcomes Assessment - Communication protocols for LP-WPAN
+#### Learning Outcomes Assessment - Emerging network (SDN, NGN)
 
 | **Instructor** | **Learning Outcome** | **Self‑Assessment (AE)** | **Evaluation Method** |
 |---------------|----------------------|---------------------|----------------------|
-| S. Abdellatif     | Understand the main benefits and limitations of adopting an Internet-based (i.e., IPv6) protocol stack for IoT access networks, including its underlying principles and how it differs from the legacy IPv6-based protocol stack | 2 / 2 | Homework assessment. |
+| S. Abdellatif     | Understand  the fundamentals of emerging network paradigms  (Notably, Network virtualization and Software Defined Networking (SDN)) and assess their benefits for IoT | 2 / 2 | Homework assessment. |
 
 | **Instructor** | **Learning Outcome** | **Self‑Assessment (AE)** | **Evaluation Method** |
 |---------------|----------------------|---------------------|----------------------|
-| S. Abdellatif     | Set up and operate a basic IPv6 based IoT Network | 2 / 2 | Homework assessment. |
+| S. Abdellatif     | Set up an SDN network and develop a basic control application | 2 / 2 | Homework assessment. |
 
 
 ## Source
 
 </div>
+
