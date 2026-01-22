@@ -1,3 +1,6 @@
 [submodule "Communicating Systems for IoT/Smart Devices/BE_AIME"]
 	path = Communicating Systems for IoT/Smart Devices/BE_AIME
 	url = https://github.com/vacergvo/BE_AIME.git
+[submodule "Computer Systems for IoT/Middleware and Services/Service architecture/SoftwareArchiProject"]
+	path = Computer Systems for IoT/Middleware and Services/Service architecture/SoftwareArchiProject
+	url = https://github.com/DaddyChurros/SoftwareArchiProject.git
