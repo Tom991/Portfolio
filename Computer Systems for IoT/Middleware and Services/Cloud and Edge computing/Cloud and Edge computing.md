@@ -95,7 +95,7 @@ I was thus able to configure execution environments, manage software dependencie
 
 | **Instructor** | **Learning Outcome** | **Self‑Assessment (AE)** | **Evaluation Method** |
 |---------------|----------------------|---------------------|----------------------|
-| S.Yangui     | Automate the service-based applications provisioning with service orchestrators | 3 / 3 | TP Report |
+| S.Yangui     | Automate the service-based applications provisioning with service orchestrators | 2 / 3 | TP Report |
 
 I was able to set up and use a Kubernetes cluster as part of the practical labs, which allowed me to understand the fundamental principles of service orchestration and the automation of service-oriented application deployment.
 
