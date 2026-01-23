@@ -54,11 +54,11 @@ graph TB
 
 ## Analytical
 
-#### Learning Outcomes Assessment - Communication protocols for LP-WPAN
+#### Learning Outcomes Assessment - Middleware for Internet of Things
 
 | **Instructor** | **Learning Outcome** | **Self‑Assessment (AE)** | **Evaluation Method** |
 |---------------|----------------------|---------------------|----------------------|
-| T. Monteil     |Know how to situate the main standards for the Internet of Things | 4 / 4 | Homework assessment. |
+| T. Monteil     |Know how to situate the main standards for the Internet of Things | 4 / 4 | TP Report |
 
 I developed this skill during the lecture sessions, which provided an overview of IoT standards and technologies. These courses enabled me to identify the main IoT standards and to understand their roles, particularly through the study of IoT‑oriented communication protocols such as MQTT, as well as standards like oneM2M.
 
@@ -66,7 +66,7 @@ The first practical sessions also helped reinforce this theoretical knowledge by
 
 | **Instructor** | **Learning Outcome** | **Self‑Assessment (AE)** | **Evaluation Method** |
 |---------------|----------------------|---------------------|----------------------|
-| T. Monteil     | Deploy and configure an IoT architecture | 4 / 4 | Homework assessment. |
+| T. Monteil     | Deploy and configure an IoT architecture | 4 / 4 | TP Report |
 
 I am able to deploy and configure a complete IoT architecture. I was able to put this skill into practice on several occasions, particularly during the lab sessions of this module, during which I deployed an architecture ranging from connected devices to communication mechanisms, configuring components such as the MQTT broker through to data visualization.
 
@@ -74,7 +74,7 @@ This skill was also mobilized during the Smart Devices project, where I particip
 
 | **Instructor** | **Learning Outcome** | **Self‑Assessment (AE)** | **Evaluation Method** |
 |---------------|----------------------|---------------------|----------------------|
-| T. Monteil     | Interact with the different resources of the architecture using REST services | 4 / 4 | Homework assessment. |
+| T. Monteil     | Interact with the different resources of the architecture using REST services | 4 / 4 | TP Report |
 
 I did not directly use REST interfaces during the lab sessions of this module. However, I had the opportunity to implement such interfaces several times during the year, notably in service‑oriented architecture courses, as well as during the hackathon, during which we deployed a REST interface to ensure communication between the cloud and the microcontroller.
 
@@ -83,7 +83,7 @@ These experiences enabled me to interact with the various components of a distri
 
 | **Instructor** | **Learning Outcome** | **Self‑Assessment (AE)** | **Evaluation Method** |
 |---------------|----------------------|---------------------|----------------------|
-| T. Monteil     | Integrate a new technology into the deployed architecture | 4 / 4 | Homework assessment. |
+| T. Monteil     | Integrate a new technology into the deployed architecture | 4 / 4 | TP Report |
 
 This skill was developed during the rapid prototyping and integration lab sessions, particularly through the use of tools such as Node‑RED and Home Assistant. By progressively integrating new technologies into an existing architecture and adapting communication interfaces, we were able to evolve our IoT system.
 
@@ -93,3 +93,4 @@ This allowed us to observe the impact of introducing a new middleware and its in
 ## Source
 
 </div>
+
