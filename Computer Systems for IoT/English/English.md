@@ -116,12 +116,8 @@ Finally, the feedback on my oral presentations enabled me to identify recurring 
       <td>Presentation</td>
     </tr>
 
-## Source
-
 </div>
-
-
-
-
   </tbody>
 </table>
+
+## Source
