@@ -1,4 +1,4 @@
-# Communication Protocols for LP‑WPAN
+# Emerging networks
 
 ## Description
 
@@ -30,4 +30,5 @@ Finally, assessment is based on a quiz as well as an analytical activity in the 
 ## Source
 
 </div>
+
 
