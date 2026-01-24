@@ -17,7 +17,7 @@ To achieve this objective, the module is structured into three main parts:
 
 The AIME internship takes place over one week and is dedicated to the fabrication of a nanoparticle‑based gas sensor.
 
-2.	Cours et TD : d’introduction à la chaîne de mesure et aux smart divices
+2.	Lectures and tutorials: Introduction to measurement chains and smart devices
 
 These sessions, consisting of seven lectures, first introduce the fundamental principles of sensors and the measurement chain. Then, after the design of the gas sensor, work begins on the sensor datasheet.
 
@@ -176,6 +176,7 @@ I am therefore able to design and simulate a signal conditioning circuit adapted
 ## Source
 
 </div>
+
 
 
 
