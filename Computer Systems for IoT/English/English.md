@@ -4,11 +4,11 @@
 
 <div align="justify">
 
-5G instruction is part of the Computer Systems for IoT teaching unit. It focuses on the evolution of mobile communication technologies, from the earliest networks to the perspectives offered by 6G. Its objective is to enable us to understand cellular architectures, telecommunication standards, and the technological, economic, and societal challenges associated with these evolutions.
+This English module aims to develop our scientific and technical communication skills in English, both orally and in writing. Its main objective is to enable us to effectively convey scientific and technical knowledge in English, while being able to adapt our language to different types of audiences, whether specialized or non‑specialized.
 
-The course begins by retracing the history of mobile networks, explaining how the growing demand for connectivity has led to successive improvements in terms of data rate, latency, and coverage. It presents the fundamental principles related to the frequencies used and wave propagation, as well as the physical constraints that influence the design of antennas and mobile network infrastructures. The final part of the course is dedicated to the 6G roadmap, drawing on the visions of major industrial players. It highlights the challenges that must be addressed to achieve the desired performance levels.
+Throughout this module, we gave several oral presentations in English, which allowed us to present and follow the progress of our innovative project while gradually improving our oral fluency and scientific vocabulary.
 
-This module is complemented by student presentations on a wide range of topics, from 5G and 6G technologies to health issues, smartphone addiction, and environmental impact. Assessment is based on the quality of the presentations, the clarity of the analyses, and the ability to broaden the discussion toward future technologies.
+The assessment of this module is divided into three parts. First, four project reviews, assessed individually, each count for 10% of the final grade. Then, a group written report focusing on the innovative project represents 25% of the final grade. Finally, a final oral presentation, also assessed individually, accounts for 35% of the final grade.
 
 ## Technical Aspects
 
@@ -121,5 +121,6 @@ Finally, the feedback on my oral presentations enabled me to identify recurring 
 </table>
 
 ## Source
+
 
 
