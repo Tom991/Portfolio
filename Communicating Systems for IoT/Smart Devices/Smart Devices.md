@@ -13,15 +13,15 @@ The final objective of the project is to design a complete system, starting with
 To achieve this objective, the module is structured into three main parts:
 
 
-1.	AIME Internship: Gas sensor fabrication
+1.	**AIME Internship**: Gas sensor fabrication
 
 The AIME internship takes place over one week and is dedicated to the fabrication of a nanoparticle‑based gas sensor.
 
-2.	Lectures and tutorials: Introduction to measurement chains and smart devices
+2.	**Lectures and tutorials**: Introduction to measurement chains and smart devices
 
 These sessions, consisting of seven lectures, first introduce the fundamental principles of sensors and the measurement chain. Then, after the design of the gas sensor, work begins on the sensor datasheet.
 
-3.	Tutorials and project
+3.	**Tutorials and project**
 
 The laboratory sessions cover the entire development chain, from SPICE simulation of the sensor measurement and signal conditioning, to the design of a PCB integrating the sensor and the components required for LoRa communication. They also include the development of code for data acquisition and transmission, as well as the production of the associated documentation. This part of the course consists of 19 laboratory sessions. With the assistance of the instructors when needed, we were therefore able to work autonomously and make our own implementation and design choices.
 
@@ -176,6 +176,7 @@ I am therefore able to design and simulate a signal conditioning circuit adapted
 ## Source
 
 </div>
+
 
 
 
