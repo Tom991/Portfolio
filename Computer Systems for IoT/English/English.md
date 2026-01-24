@@ -1,4 +1,4 @@
-# 5G Technologies
+# English
 
 ## Description
 
@@ -16,8 +16,8 @@ This English module aims to develop our scientific and technical communication s
 
 
 <div align="center">
-  <img width="457" height="609" alt="image" src="https://github.com/user-attachments/assets/61475787-3d34-45b7-87d5-19f57c50d324" />
-  <p><em>Figure 3: Node-RED dashboard</em></p>
+  <img width="300" alt="image" src="https://github.com/user-attachments/assets/61475787-3d34-45b7-87d5-19f57c50d324" />
+  <p><em>Figure 1: Spaghetti Challenge</em></p>
 </div>
 
 Throughout this module, we gave several oral presentations in English, which allowed us to present and follow the progress of our innovative project while gradually improving our oral fluency and scientific vocabulary.
@@ -121,4 +121,5 @@ Finally, the feedback on my oral presentations enabled me to identify recurring 
 </table>
 
 ## Source
+
 
