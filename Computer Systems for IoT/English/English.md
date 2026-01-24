@@ -63,7 +63,7 @@ Finally, the feedback on my oral presentations enabled me to identify recurring 
         related to his/her area of interest by developing and justifying ideas with
         relevant subpoints and examples.
       </td>
-      <td>—</td>
+      <td>3/4</td>
       <td>Presentation</td>
     </tr>
     <tr>
@@ -72,7 +72,7 @@ Finally, the feedback on my oral presentations enabled me to identify recurring 
         a particular point of view and presenting the advantages and disadvantages of
         various options. Can handle a series of questions with fluency and spontaneity.
       </td>
-      <td>—</td>
+      <td>3/4</td>
       <td>Presentation</td>
     </tr>
     <tr>
@@ -81,14 +81,14 @@ Finally, the feedback on my oral presentations enabled me to identify recurring 
         for or against a particular point of view and explaining advantages or disadvantages
         of different options. Can synthesize information from various sources.
       </td>
-      <td>—</td>
+      <td>3/4</td>
       <td>Report</td>
     </tr>
     <tr>
       <td>
         Has fairly good grammar control and does not make mistakes leading to misunderstandings.
       </td>
-      <td>—</td>
+      <td>3/4</td>
       <td>Report / Presentation</td>
     </tr>
     <tr>
@@ -96,14 +96,14 @@ Finally, the feedback on my oral presentations enabled me to identify recurring 
         Can usually use the right intonation, place the accent correctly, and articulate
         isolated sounds clearly; accent influence does not affect comprehension.
       </td>
-      <td>—</td>
+      <td>3/4</td>
       <td>Report / Presentation</td>
     </tr>
     <tr>
       <td>
         Can speak for a relatively long time with a fairly regular flow, with few long pauses.
       </td>
-      <td>—</td>
+      <td>3/4</td>
       <td>Presentation</td>
     </tr>
     <tr>
@@ -112,7 +112,7 @@ Finally, the feedback on my oral presentations enabled me to identify recurring 
         articulate ideas and opinions clearly, and argue accurately on complex topics,
         responding convincingly to others’ arguments.
       </td>
-      <td>—</td>
+      <td>3/4</td>
       <td>Presentation</td>
     </tr>
 
@@ -121,3 +121,4 @@ Finally, the feedback on my oral presentations enabled me to identify recurring 
 </table>
 
 ## Source
+
