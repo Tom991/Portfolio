@@ -1,1 +1,8 @@
+# Introduction 
+
+As part of my final year of studies within the Innovative Smart Systems program, this document aims to provide an assessment of the past year and, more broadly, of my education at INSA. By highlighting the knowledge, skills, and experiences I have developed throughout my personal, professional, and academic journey, it serves as a reflective tool to showcase my achievements, analyze my significant experiences, and examine the challenges I have encountered.
+
+I joined the school in the third year of the Automation and Electronics program through a work-study track, after completing a preparatory class. I chose to join INSA mainly because of its location in Toulouse, as well as its work-study program, which allows students to obtain a degree equivalent to that of the traditional academic track while gaining professional experience. I was particularly eager to enroll in a work-study program in order to combine financial independence with the acquisition of initial professional experience. Being passionate about the space sector, I directed my search for a work-study position toward this field.
+
+This portfolio is structured around three complementary sections: a descriptive section aimed at presenting the context and subject matter covered; a technical section detailing the various practical sessions and projects; and finally, an analytical section providing an assessment of the skills acquired throughout the course. This report is organized around major domains, each corresponding to a key theme addressed during the training program. Each section offers an opportunity to analyze the teaching units and subjects covered over the course of the year. 
 
