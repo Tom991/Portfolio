@@ -70,41 +70,60 @@ We were thus able to implement a secure communication system based on two distin
 ### Analytical
 
 
-#### Learning Outcomes Assessment - AI at the Edge
+#### Learning Outcomes Assessment - Security for IoT
+
+This course enabled me to gain a better understanding of security applied to connected objects. It helped me better grasp the different types of attacks that may occur, as well as raise my awareness of the security challenges involved in IoT systems. I also enriched my technical vocabulary and learned to reason in a more structured way when facing security-related issues.
+
+However, I realize that I am still progressing in several areas. I am not yet fully autonomous when facing an unknown architecture, and at this stage, I would not be able to conduct a security audit outside of a guided and assisted lab environment.
 
 | **Instructor** | **Learning Outcome** | **Self‑Assessment (AE)** | **Evaluation Method** |
 |---------------|----------------------|---------------------|----------------------|
-| R. Cayre     | Understand the fundamentals of security |  / 4 | TP Report + Portfolio |
+| R. Cayre     | Understand the fundamentals of security | 4 / 4 | TP Report + Portfolio |
 
+I consider that I have reached a satisfactory level in security fundamentals. Courses from previous years, particularly in hardware security, were very helpful, and the courses delivered this year allowed me to consolidate these foundations. I have acquired both the vocabulary and the analytical skills needed to study security issues, especially in the context of connected objects.
+
+| **Instructor** | **Learning Outcome** | **Self‑Assessment (AE)** | **Evaluation Method** |
+|---------------|----------------------|---------------------|----------------------|
+| R. Cayre     | Be able to identify security weaknesses in an IoT architecture | 2 / 3 | TP Report + Portfolio |
+
+I am able to identify certain typical weaknesses in an IoT architecture (poor key management, lack of authentication, unencrypted communications, etc.). The lab sessions provided me with several analytical reflexes and a structured methodology.
+
+However, I rate myself at 2/3 because I have always worked in controlled environments, with lab architectures specifically designed to exploit a given vulnerability. When facing a completely new architecture, I am not certain that I would initially be able to correctly identify and exploit a vulnerability without guidance.
+
+| **Instructor** | **Learning Outcome** | **Self‑Assessment (AE)** | **Evaluation Method** |
+|---------------|----------------------|---------------------|----------------------|
+| R. Cayre     | Be able to assess the impact of exploiting a security vulnerability in an IoT architecture | 2 / 3 | TP Report + Portfolio |
+
+I am able to assess the main consequences of exploiting a vulnerability, whether in terms of confidentiality, integrity, or availability. The lab sessions helped me understand the concrete impacts of an attack on a system.
+
+Nevertheless, my analysis remains partial. Depending on my theoretical knowledge of a given attack, I may encounter difficulties in fully evaluating its implications.
+
+| **Instructor** | **Learning Outcome** | **Self‑Assessment (AE)** | **Evaluation Method** |
+|---------------|----------------------|---------------------|----------------------|
+| R. Cayre     | Be able to propose adequate security counter-measures | 3 / 3 | TP Report + Portfolio |
+
+I am able to propose certain appropriate countermeasures to address identified vulnerabilities, such as adding authentication mechanisms, encryption, or fixing SQL injection flaws. I understand the general principles that help improve the security of an IoT architecture.
+
+However, I lack experience when it comes to comparing multiple solutions and selecting the most relevant one.
+
+| **Instructor** | **Learning Outcome** | **Self‑Assessment (AE)** | **Evaluation Method** |
+|---------------|----------------------|---------------------|----------------------|
+| R. Cayre     | Be able to design secure communication protocols for IoT | 3 / 3 | TP Report + Portfolio |
+
+This course allowed me to understand the different building blocks required to secure communications (authentication, integrity, key agreement, certificates, etc.) and how they are assembled to form a secure protocol.
+
+I would be able to integrate certain security mechanisms into an existing or simple communication protocol. However, I would have difficulty evaluating the overall security level of a protocol and identifying all of its potential weaknesses.
 
 
 | **Instructor** | **Learning Outcome** | **Self‑Assessment (AE)** | **Evaluation Method** |
 |---------------|----------------------|---------------------|----------------------|
-| R. Cayre     | Be able to identify security weaknesses in an IoT architecture |  / 3 | TP Report + Portfolio |
+| R. Cayre     | Understand the secure quantic communcations | 3 / 3 | TP Report + Portfolio |
 
+I found this part of the course particularly interesting, as it offers a different perspective on security by relying on fundamental physical properties. The use of quantum phenomena to address security challenges is, in my opinion, very enriching.
 
+The fact that this section was concentrated into a full day allowed for better immersion and greater engagement. I particularly appreciated the first part of the lab session. However, the lack of coherent results during the second part was somewhat disappointing.
 
-| **Instructor** | **Learning Outcome** | **Self‑Assessment (AE)** | **Evaluation Method** |
-|---------------|----------------------|---------------------|----------------------|
-| R. Cayre     | Be able to assess the impact of exploiting a security vulnerability in an IoT architecture |  / 3 | TP Report + Portfolio |
-
-
-
-| **Instructor** | **Learning Outcome** | **Self‑Assessment (AE)** | **Evaluation Method** |
-|---------------|----------------------|---------------------|----------------------|
-| R. Cayre     | Be able to propose adequate security counter-measures |  / 3 | TP Report + Portfolio |
-
-
-
-| **Instructor** | **Learning Outcome** | **Self‑Assessment (AE)** | **Evaluation Method** |
-|---------------|----------------------|---------------------|----------------------|
-| R. Cayre     | Be able to design secure communication protocols for IoT |  / 3 | TP Report + Portfolio |
-
-
-
-| **Instructor** | **Learning Outcome** | **Self‑Assessment (AE)** | **Evaluation Method** |
-|---------------|----------------------|---------------------|----------------------|
-| R. Cayre     | Understand the secure quantic communcations |  / 3 | TP Report + Portfolio |
+I believe I have understood the essentials of this course, particularly the possibilities offered by quantum communications. However, I do not yet fully master all of the underlying physical phenomena.
 
 ## Source
 
@@ -117,5 +136,6 @@ We were thus able to implement a secure communication system based on two distin
     Disponible sur : [https://homepages.laas.fr/rcayre/teaching/iotsec/reverse/](https://www.youtube.com/watch?v=G9KqWiAxvyQ)
 
 </div>
+
 
 
